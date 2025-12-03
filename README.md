@@ -3,5 +3,5 @@
 Senior @ Carnegie Mellon University | Statistics & Data Science \
 [Email](mailto:helen.peng04@gmail.com) • [LinkedIn](https://linkedin.com/in/helenpeng04) • [Website](https://helenpeng04.github.io)
 
-I’m interested in biostatistics and how data can be used to make better decisions in health and medicine. I explore questions that bring together statistics, psychology, and cognitive science in the [OAK Lab](https://www.theoaklab.org/), where I study how people learn and discover complex rules. Outside of academics, I recharge by exploring stories—through books, TV, and media—that reveal how people think, connect, and navigate the world.  
+I’m interested in biostatistics and how data can be used to make better decisions in health and medicine. I'm currently in the [OAK Lab](https://www.theoaklab.org/), where I study how people learn and discover complex rules. Outside of academics, I recharge by exploring stories—through books, TV, and media—that reveal how people think, connect, and navigate the world.  
 
